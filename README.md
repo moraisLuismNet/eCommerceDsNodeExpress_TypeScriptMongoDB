@@ -1,6 +1,7 @@
 ## eCommerceDsNodeExpress_TypeScriptMongoDB
 
-**eCommerceDsNodeExpress_TypeScriptMongoDB** is an Nodejs+Express API project. It is the backend service layer for an e-commerce application, focused on data management. The Repository implements the data access logic. The Services contain the application's business logic. Key features implemented in the project include: Authentication and Authorization, User Management, Catalog Management, Shopping Cart Management, and Order Management. It uses MongoDB and JWT for authentication. Images are not uploaded locally, the https://imgur.com service is used.
+**eCommerceDsNodeExpress_TypeScriptMongoDB** is an Nodejs+Express API project. It is the backend service layer for an e-commerce application, focused on data management. The Repository implements the data access logic. The Services contain the application's business logic. Key features implemented in the project include: Authentication and Authorization, User Management, Catalog Management, Shopping Cart Management and Order Management. It uses TypeScript, MongoDB and JWT for authentication. Images are not uploaded locally, the https://imgur.com service is used.
+
 
 eCommerceDsNodeExpress_TypeScriptMongoDB/    
 ├── src/      
